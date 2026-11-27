@@ -1,0 +1,25 @@
+{
+  "name": "Peter · Reading & Writing Ch6",
+  "short_name": "Peter Ch6",
+  "description": "A Primary 6 game about films, phrasal verbs, -ed and -ing adjectives, film reviews, and writing a film review.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f3",
+  "theme_color": "#c45c26",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
