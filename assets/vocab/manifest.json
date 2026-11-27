@@ -1,0 +1,58 @@
+[
+  {
+    "id": "turn into",
+    "picture_id": "A",
+    "file": "assets/vocab/turn_into.png",
+    "book_page": 67,
+    "note": "Official crop for the turn into answer card."
+  },
+  {
+    "id": "find out",
+    "picture_id": "B",
+    "file": "assets/vocab/find_out.png",
+    "book_page": 67,
+    "note": "Official crop for the find out answer card. Four pixels were trimmed from the left edge to remove a sliver of the page number badge."
+  },
+  {
+    "id": "get away",
+    "picture_id": "C",
+    "file": "assets/vocab/get_away.png",
+    "book_page": 67,
+    "note": "Official crop for the get away answer card."
+  },
+  {
+    "id": "get into (trouble)",
+    "picture_id": "D",
+    "file": "assets/vocab/get_into.png",
+    "book_page": 67,
+    "note": "Official crop for the get into (trouble) answer card."
+  },
+  {
+    "id": "give up",
+    "picture_id": "E",
+    "file": "assets/vocab/give_up.png",
+    "book_page": 67,
+    "note": "Official crop for the give up answer card."
+  },
+  {
+    "id": "look for",
+    "picture_id": "F",
+    "file": "assets/vocab/look_for.png",
+    "book_page": 67,
+    "note": "Official crop for the look for answer card."
+  },
+  {
+    "id": "make up (a story)",
+    "picture_id": "G",
+    "file": "assets/vocab/make_up.png",
+    "book_page": 67,
+    "note": "Official crop for the make up (a story) answer card."
+  },
+  {
+    "id": "set off (for a trip)",
+    "picture_id": "H",
+    "file": "assets/vocab/set_off.png",
+    "book_page": 67,
+    "note": "Official crop for the set off (for a trip) answer card."
+  }
+]
