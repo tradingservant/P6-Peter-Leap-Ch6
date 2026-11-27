@@ -4,55 +4,55 @@
     "picture_id": "A",
     "file": "assets/vocab/turn_into.png",
     "book_page": 67,
-    "note": "Prince turning into a wolf. The printed label under the picture was trimmed."
+    "note": "Official crop for the turn into answer card."
   },
   {
     "id": "find out",
     "picture_id": "B",
     "file": "assets/vocab/find_out.png",
     "book_page": 67,
-    "note": "Boy at a desk with books, a laptop, and a light bulb. The printed label was trimmed."
+    "note": "Official crop for the find out answer card. Four pixels were trimmed from the left edge to remove a sliver of the page number badge."
   },
   {
     "id": "get away",
     "picture_id": "C",
     "file": "assets/vocab/get_away.png",
     "book_page": 67,
-    "note": "Child rowing away from people with spears. The printed label was trimmed."
+    "note": "Official crop for the get away answer card."
   },
   {
     "id": "get into (trouble)",
     "picture_id": "D",
     "file": "assets/vocab/get_into.png",
     "book_page": 67,
-    "note": "Two children facing angry dragons. The printed label was trimmed."
+    "note": "Official crop for the get into (trouble) answer card."
   },
   {
     "id": "give up",
     "picture_id": "E",
     "file": "assets/vocab/give_up.png",
     "book_page": 67,
-    "note": "Boy walking away from a shovel and holes. The printed label was trimmed. The book art is not a runner sitting down."
+    "note": "Official crop for the give up answer card."
   },
   {
     "id": "look for",
     "picture_id": "F",
     "file": "assets/vocab/look_for.png",
     "book_page": 67,
-    "note": "Child with binoculars in a forest. The printed label was trimmed."
+    "note": "Official crop for the look for answer card."
   },
   {
     "id": "make up (a story)",
     "picture_id": "G",
     "file": "assets/vocab/make_up.png",
     "book_page": 67,
-    "note": "Two children telling a story shown in a speech bubble. The printed label was trimmed."
+    "note": "Official crop for the make up (a story) answer card."
   },
   {
     "id": "set off (for a trip)",
     "picture_id": "H",
     "file": "assets/vocab/set_off.png",
     "book_page": 67,
-    "note": "Traveller with a suitcase at an airport. The printed label was trimmed."
+    "note": "Official crop for the set off (for a trip) answer card."
   }
 ]
